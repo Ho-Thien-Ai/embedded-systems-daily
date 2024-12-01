@@ -1,0 +1,20 @@
+[submodule "technical-resources"]
+	path = technical-resources
+	url = https://github.com/Sigma-eLabs/technical-resources.git
+	branch = main
+[submodule "embedded-software-insider"]
+	path = embedded-software-insider
+	url = https://github.com/Sigma-eLabs/embedded-software-insider.git
+	branch = main
+[submodule "embedded-software-programming-concepts"]
+	path = embedded-software-programming-concepts
+	url = https://github.com/Sigma-eLabs/embedded-software-programming-concepts.git
+	branch = main
+[submodule "embedded-software-for-automotive-products"]
+	path = embedded-software-for-automotive-products
+	url = https://github.com/Sigma-eLabs/embedded-software-for-automotive-products.git
+	branch = main
+[submodule "uc-programming"]
+	path = uc-programming
+	url = https://github.com/Sigma-eLabs/uc-programming.git
+	branch = main

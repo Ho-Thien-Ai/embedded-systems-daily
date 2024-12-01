@@ -43,11 +43,5 @@ Các bạn có thể tham khảo nhiều bài viết & tài nguyên của [Sigma
 | [embedded-software-insider](https://github.com/Sigma-eLabs/embedded-software-insider)   | Kiến thức chung về lĩnh vực Embedded Software    |
 | [technical-resources](https://github.com/Sigma-eLabs/technical-resources)   | Tài liệu kỹ thuật    |
 
-* [uc-programming](https://github.com/Sigma-eLabs/uc-programming): lập trình vi điều khiển 
-* [embedded-software-programming-concepts](https://github.com/Sigma-eLabs/embedded-software-programming-concepts): những ý tưởng hay, thường được sử dụng trong lập trình hệ thống nhúng
-* [embedded-software-for-automotive-products](https://github.com/Sigma-eLabs/embedded-software-for-automotive-products): embedded software trong lĩnh vực ô tô
-* [embedded-software-insider](https://github.com/Sigma-eLabs/embedded-software-insider): kiến thức chung về lĩnh vực Embedded Software
-* [technical-resources](https://github.com/Sigma-eLabs/technical-resources): tài liệu liên quan
-
 # Contact & Discussion
 Vui lòng liên hệ [Sigma eLabs](https://github.com/Sigma-eLabs) qua email: [Ho Thien Ai](mailto:thienaiho95@gmail.com) để đóng góp ý kiến và trao đổi. Mình rất trân trọng và chân thành cảm ơn!

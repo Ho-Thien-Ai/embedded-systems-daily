@@ -5,11 +5,13 @@
 </p>
 
 [Sigma eLabs](https://github.com/Sigma-eLabs) - Embedded Software Education & Research Labs. :rocket:\
-[Sigma eLabs](https://github.com/Sigma-eLabs) được xây dựng nhằm mục đích lưu giữ và chia sẻ những kiến thức chuyên môn trong lĩnh vực Embedded Software tổng hợp được trong quá trình học tập, làm việc và nghiên cứu. Nếu bạn là một người đam mê khoa học và công nghệ, thì [Sigma eLabs](https://github.com/Sigma-eLabs) mong rằng đây là một nơi khởi đầu thích hợp của hành trình chinh phục đam mê đó.\
-[Embedded Software](https://github.com/Sigma-eLabs/embedded-software) sẽ tập trung vào những chủ đề chính trong lĩnh vực [Embedded Software](https://github.com/Sigma-eLabs/embedded-software) sau:
+This lab was established for the purpose that is to storing and sharing the knowledge about the embedded software collected during studying, working and researching. If you are the kind of person have a passion for science and technology, then Sigma eLabs desires that this place is a suitable starting point for your journey to achieve your passion. It will be focused in the following topics. 
+* [Microcontroller Programming](https://github.com/Sigma-eLabs/uc-programming)
+* [Embedded Software Programming Concepts](https://github.com/Sigma-eLabs/embedded-software-programming-concepts)
+* [Embedded Software for Automotive Products](https://github.com/Sigma-eLabs/embedded-software-for-automotive-products)
 
 # Microcontroller Programming
-[Microcontroller Programming](https://github.com/Sigma-eLabs/uc-programming) hay [uC Programming](https://github.com/Sigma-eLabs/uc-programming) - mục đích để chúng ta làm quen với kiến trúc hệ thống của vi điều khiển và cách thức để làm việc với nó.
+[Microcontroller Programming](https://github.com/Sigma-eLabs/uc-programming) - The purpose of this section is to familar with microcontroller architechture and get to know how to work with it.
 <p align="center">
   <a href="." title="Microcontroller Programming">
     <img src="/assests/images/uCprogramming.png" title="Microcontroller Programming" style="width: 100vw; min-width: 200px"/>
@@ -17,7 +19,7 @@
 </p>
 
 # Embedded Software Programming Concepts
-[Embedded Software Programming Concepts](https://github.com/Sigma-eLabs/embedded-software-programming-concepts) - việc nắm được lý thuyết cơ bản và ý tưởng xây dựng một software làm việc hiệu quả, ổn định là vô cùng quan trọng. Nó cung cấp cho bạn một cái nhìn tổng quan về việc tại sao software lại được design theo nhiều cách khác nhau.
+[Embedded Software Programming Concepts](https://github.com/Sigma-eLabs/embedded-software-programming-concepts) - Having the knowledge about the programming principle, good ideas to build a stable and high-performance software is very important because of the demand of the market. Also, having an overview that why software is being designed in different ways depend on the requirement of projects, would support you design a good software.
 <p align="center">
   <a href="." title="Embedded Software Programming Concepts">
     <img src="/assests/images/EmbeddedSwProConcepts.png" title="Embedded Software Programming Concepts" style="width: 100vw; min-width: 200px"/>
@@ -25,7 +27,7 @@
 </p>
 
 # Embedded Software for Automotive Products
-[Embedded Software for Automotive Products](https://github.com/Sigma-eLabs/embedded-software-for-automotive-products) - đây là một trong những ngành công nghiệp lớn ứng dụng Embedded Software rất nhiều với công nghệ tiên phong và phát triển liên tục.
+[Embedded Software for Automotive Products](https://github.com/Sigma-eLabs/embedded-software-for-automotive-products) - Automotive is one of the biggest industry applys embedded software with a variety of products. Its technology is continously innovated and developed by engineers. It provides a very big chance for engineer who would like to develop his career path.
 <p align="center">
   <a href="." title="Embedded Software for Automotive Products">
     <img src="/assests/images/EmbeddedAutomotive.png" title="Embedded Software for Automotive Products" style="width: 100vw; min-width: 200px"/>
@@ -33,15 +35,19 @@
 </p>
 
 # How to use this [repository](https://github.com/Sigma-eLabs/embedded-software)
-Các bạn có thể tham khảo nhiều bài viết & tài nguyên của [Sigma eLabs](https://github.com/Sigma-eLabs) về [Embedded Software](https://github.com/Sigma-eLabs/embedded-software) tại đây:
+You can refer to the documents and resources of [Sigma eLabs](https://github.com/Sigma-eLabs) about [Embedded Software](https://github.com/Sigma-eLabs/embedded-software) here:
 
-| Chủ đề    | Nội dung |
+| Topic    | Description |
 | :-------- | :------- |
-| [uc-programming](https://github.com/Sigma-eLabs/uc-programming)  | Lập trình vi điều khiển   |
-| [embedded-software-programming-concepts](https://github.com/Sigma-eLabs/embedded-software-programming-concepts)| Những ý tưởng hay, thường được sử dụng trong lập trình hệ thống nhúng     |
-| [embedded-software-for-automotive-products](https://github.com/Sigma-eLabs/embedded-software-for-automotive-products)   | Embedded software trong lĩnh vực ô tô    |
-| [embedded-software-insider](https://github.com/Sigma-eLabs/embedded-software-insider)   | Kiến thức chung về lĩnh vực Embedded Software    |
-| [technical-resources](https://github.com/Sigma-eLabs/technical-resources)   | Tài liệu kỹ thuật    |
+| [Microcontroller Programming](https://github.com/Sigma-eLabs/uc-programming)  | A list of Microcontroller Programming Lessons   |
+| [Embedded Software Programming Concepts](https://github.com/Sigma-eLabs/embedded-software-programming-concepts)| Good ideas, programming concepts are normally used for Embedded Software Programming     |
+| [Embedded Software for Automotive Products](https://github.com/Sigma-eLabs/embedded-software-for-automotive-products)   | Embedded Software Applied for Automotive Products    |
+| [Embedded Software Insider](https://github.com/Sigma-eLabs/embedded-software-insider)   | General knowledge about Embedded Software    |
+| [Technical Resources](https://github.com/Sigma-eLabs/technical-resources)   | Documents and Resources for everyone    |
 
 # Contact & Discussion
-Vui lòng liên hệ [Sigma eLabs](https://github.com/Sigma-eLabs) qua email: [Ho Thien Ai](mailto:thienaiho95@gmail.com) để đóng góp ý kiến và trao đổi. Mình rất trân trọng và chân thành cảm ơn!
+If you have any thing would like to discuss or cooperate with me, please don't hesitate to contact me via:
+* Email [Ho Thien Ai](mailto:thienaiho95@gmail.com)
+* LinkedIn [Thien Ai Ho](https://www.linkedin.com/in/thien-ai-ho/).
+
+I'm always welcome your ideas and thank for your insteresting!
